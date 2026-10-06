@@ -1,4 +1,4 @@
-# Compose-Retrofit-MVVM-Demo
+# Compose-Retrofit-MVVM-Demo 
 
 This is a simple Android project that demonstrates how to fetch data from a remote API and display it in a Jetpack Compose UI. It’s designed to help understand how networking works in frontend Android development using modern tools and practices.
 
